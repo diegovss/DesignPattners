@@ -1,7 +1,7 @@
-package org.site.animals;
+package org.designpatterns.strategy.model;
 
-import org.site.animals.behavior.interfaces.FlyBehavior;
-import org.site.animals.behavior.interfaces.QuackBehavior;
+import org.designpatterns.strategy.behavior.interfaces.FlyBehavior;
+import org.designpatterns.strategy.behavior.interfaces.QuackBehavior;
 
 public abstract class Duck {
 

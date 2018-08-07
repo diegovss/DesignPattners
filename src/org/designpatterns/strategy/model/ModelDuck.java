@@ -1,7 +1,7 @@
-package org.site.animals;
+package org.designpatterns.strategy.model;
 
-import org.site.animals.behavior.classes.FlyNoWay;
-import org.site.animals.behavior.classes.Quack;
+import org.designpatterns.strategy.behavior.classes.FlyNoWay;
+import org.designpatterns.strategy.behavior.classes.Quack;
 
 
 public class ModelDuck extends Duck{

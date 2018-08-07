@@ -1,9 +1,9 @@
-package org.site.animals.simulator;
+package org.designpatterns.strategy.simulator;
 
-import org.site.animals.Duck;
-import org.site.animals.MallardDuck;
-import org.site.animals.ModelDuck;
-import org.site.animals.behavior.classes.FlyRocketPowered;
+import org.designpatterns.strategy.behavior.classes.FlyRocketPowered;
+import org.designpatterns.strategy.model.Duck;
+import org.designpatterns.strategy.model.MallardDuck;
+import org.designpatterns.strategy.model.ModelDuck;
 
 
 public class MiniDuckSimulator {

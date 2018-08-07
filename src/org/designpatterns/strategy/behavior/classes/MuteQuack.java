@@ -1,6 +1,6 @@
-package org.site.animals.behavior.classes;
+package org.designpatterns.strategy.behavior.classes;
 
-import org.site.animals.behavior.interfaces.QuackBehavior;
+import org.designpatterns.strategy.behavior.interfaces.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior{
 

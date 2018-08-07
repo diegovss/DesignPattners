@@ -1,6 +1,6 @@
-package org.site.animals.behavior.classes;
+package org.designpatterns.strategy.behavior.classes;
 
-import org.site.animals.behavior.interfaces.FlyBehavior;
+import org.designpatterns.strategy.behavior.interfaces.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior{
 

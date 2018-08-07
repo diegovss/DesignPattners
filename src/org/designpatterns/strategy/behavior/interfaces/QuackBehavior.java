@@ -1,4 +1,4 @@
-package org.site.animals.behavior.interfaces;
+package org.designpatterns.strategy.behavior.interfaces;
 
 public interface QuackBehavior {
 	public void quack();

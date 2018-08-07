@@ -1,7 +1,7 @@
-package org.site.animals;
+package org.designpatterns.strategy.model;
 
-import org.site.animals.behavior.classes.FlyWithWings;
-import org.site.animals.behavior.classes.Quack;
+import org.designpatterns.strategy.behavior.classes.FlyWithWings;
+import org.designpatterns.strategy.behavior.classes.Quack;
 
 public class MallardDuck extends Duck{
 	public MallardDuck(){
